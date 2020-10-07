@@ -1,1 +1,1 @@
-# TermsOfService
+# Terms of Service
