@@ -5,6 +5,9 @@ agreements of 251 cryptocurrency exchanges representing 99.99% of
 centralized data money transactions. GitHub Repository
 https://github.com/sibirbil/TermsOfService
 
+[![DOI](https://zenodo.org/badge/301932915.svg)](https://zenodo.org/badge/latestdoi/301932915)
+
+
 We would like to thank Sevde Ünal for research assistance.
 
 ## R Code
